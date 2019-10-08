@@ -1,0 +1,74 @@
+##
+## From the canonical koala collection
+##
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts `                                                         
+
+                                          `.-:/++ossss--..`                                         
+                                   `/oyhmNMMMMMMMMMMMMMMMMMNNmdhso/:.`                              
+                                   -MMMNho/dMMMN`.-+dMMMmso+yMMMMMMMMMmhoNNNms                      
+                              ...` -MMh.   +MMMM`   `+o/`   sMMMN.-omMMMsMMMM:                      
+                          :sdNMMMNd+::     -MMMM.           NMMM+   `dMMmMMMo                       
+                .ohs`   :dMMMdyhNMMMh       NMMM-          :MMMm`    `+mMMMN++:.                    
+              .sNMMN`  oMMMs.  -sMMMM+      yMMM/          yMMM/      oMMMMMMMMMd+                  
+              +MMMMMh.`yMMN`.omNMMMMMN`     /MMM+         `NMMd      +MMMNs:-:sMMMh`                
+              `mMMMMMN/ -oosNMMdo:oMMMs     .MMMs         +MMM:     :NMMm.    `NMMM/.+/`            
+               /MMMMMMMs` oMMMy`  `NMMM:    +MMMN+      `/NMMd     .NMMd.    `sMMMN-sMMm+`          
+                yMMyNMMMd.sMMMd.  .NMMMN+  `mNmmdh      /MMMMN-   -mMMd`    .hMMMm: hMMMMN-         
+    :/:-.       .NMm-yMMMNohMMMNddNMmody/   ``````      `.-/oo`  hNMMN`    /NMMNs` /MMMNo/`         
+  .hMMMNNmhs+:.  /MMh`/mMMMdydmNMNds. `                          :sdNh  `-yMMMh-  -NMMM/     .`     
+ -mMMMMMMMMMMMNmhsmMMs `yMMMMN.`.``                                ``` .mNMMN+`  .mMMM+     oNN+    
+`-ssohNMMMNmNMMMMMMMMM+ .NMd+.                                          :yNMs   `dMMMo`-/+shNMMMh`  
+  ``  ./yNMNho+oydNMMMN: .-`                     .y-                      .:`  `hMMMNmNNMNmdhhhdh.``
+    ``   ./yNMmy:..-/shs                        .hMm:                   `+dNs:odMMNmhyo/-.```  ```  
+      ``    ./yNMmddo ``                       -dMMMN/                  sMMMNmdy+:.``         ``    
+        ``     -dMMN+                         :mMMMMMNo`                `.--.``             ``      
+          ``    `os-                        `+NMMMMMMMNy.                                 ``        
+            ``                             .yMMMMMMMMMMMd:                              ``          
+              ``                          /mMMMMMMMMMMMMMNo`                          ``            
+                ``                      .yNMMMMMMMMMMMMMMMMd:                       ``              
+                  ``                  .omMMMMMMMMMMMMMMMMMMMNy-                   ``                
+                    ``              `/dMMMMMMMMMMMMMMMMMMMMMMMmo.               ``                  
+                      ``          `/hNMMMMMMMMMMMMMMMMMMMMMMMMMMm+.           ``                    
+                        ``      `/hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmo.       ``                      
+                          ``  .+dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMms-   ``                        
+                           `-odNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmy:`                          
+                         `/ymMMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNMNh+.                        
+                      `-odMMMMMMMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNMMMMMMmy:`                     
+                    ./hNMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNMMMMMMMMMMNdo-                   
+                 `-omMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMNNMMMMMMMMMMMMMMMmy:`                
+                -smMMMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMMNh:`              
+              .oNMMNNNNNNNNMNNNNMNNNNNNMMMNNNNNNNNNNNNNNNNNNNNNMMNNNNNNMMNNNMMNNNNMMNy-             
+             :dMMMMNMMNNNMNNNMMmNMMNNmdhhhdmNNMNsoooNMMNNmddddNNNNMNNMMNNNMNNNNMNNMMMMm+`           
+           `+NMMMMMNMMNNNMMmNMMmNMNh/.`    `-sNM/...NNMNd`    +NmMMNMNMNmNMNNNMNNMMMMMMNy.          
+           oNMMMMMMNMMNNNMMmNMMmNMd`   /ss-   sM/---NNMN-  `   smMNNMNMNmNMNNMNNMMMMMMMMMh.         
+          +NMMMMMMMNMMNNNMNNNMMmNMo   -NNNdooosN-   NNMo   y.  `dMNNMMMMNNMNMMNMMMMMMMMMMMh`        
+         .NMMMMMMMMNMMNNNMNNNMMmNMo   -NNNd///sN-   NNh   `s/   -NMNMMMMNNMMMNNMMMMMMMMMMMM+        
+         sMMMMMMMMMNMMNNNNMNNMMmNMm.   :++.   yM-   Nd.   ````   oNNMNMNmNMNNMNNMMMMMMMMMMMd`       
+         dMMMMMMMMMNMMNNNNMNNMMmNMNmo-.````.:yMM:...N+..`+hddy.``.dNMNMMmNMNmNMNNMMMMMMMMMMM.       
+        `mMMMMMMMMMNNMNNNMNNNMMmNMMNNNNdddmNNNMNmmmmMdmmdNMNNMmddmNNNNMNNNMNNNMMNMMMMMMMMMMM-       
+         hMMMMMMMMMMNNNNNNNMNNNNMNNNNNNNMNNNNNNNMMMNNNMMMNNNNNNNMNNNNNNNMNNNMMNNNNMMMMMMMMMN.       
+         +MMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh        
+         `dMMMMMMMMMMMMMMMMMMMMMMMMMMNNMMMMMMMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMN-        
+          .dMMMMMMMMMMMMMMMMMMMMMMMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMN/         
+           .hMMMMMMMMMMMMMMMMMMMMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMMMm/          
+            `oNMMMMMMMMMMMMMMMMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMNy.           
+              .sNMMMMMMMMMMMMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMNh:             
+                .+hNMMMMMMMNNMMMMMMMMMMMMMNdohMMMMMMMMMN+hNNMMMMMMMMMMMMMNMMMMMMMNdo-               
+                   ./sdNNNNMMMMMMMMMNNmho/. .mMMMMMMMMMM/ `:+ymNNMMMMMMMMMNNNNdy+-`                 
+                       `-:/+ossso+//-.`     oMMMMMMMMMMMd`     `-:/+ossso+/:-.`                     
+                      ``                   -NMMMMMMMMMMMMo                    ``                    
+                    ``                    .mMMMMMMMMMMMMMN:                     ``                  
+                  ``                     .dMMMMMMMMMMMMMMMN:                      ``                
+                ``                      -dMMMMMMMMMMMMMMMMMN/                       ``              
+              ``                       /mMMMMMMMMMMMMMMMMMMMNs`                       ``            
+            ``                       .yMMMMMMMMMMMMMMMMMMMMMMMd:                        ``          
+          ``                      `.sNMMMMMMMMMMMMMMMMMMMMMMMMMMh:`                       ``        
+        ``                      `/hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMdo.                       ``      
+      ``                        /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy                         ``    
+    ``                          :mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmo                           ``  
+  ``                                                                                              ``
+
+
+EOC
